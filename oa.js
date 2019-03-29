@@ -69,4 +69,4 @@ const os = () => {
   return result
 }
 
-export default oa
+export default os
